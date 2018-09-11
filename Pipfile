@@ -1,0 +1,26 @@
+[[source]]
+verify_ssl = true
+name = "pypi"
+url = "https://pypi.python.org/simple"
+
+[dev-packages]
+
+[packages]
+"h5py" = "*"
+sklearn = "*"
+scikit-learn = "*"
+pymongo = "*"
+pytest = "*"
+numpy = "*"
+scikit-image = "*"
+bezier = "*"
+ipykernel = "*"
+jupyter = "*"
+tensorflowjs = "*"
+"boto3" = "*"
+matplotlib = "*"
+librosa = "*"
+pydot = "*"
+graphviz = "*"
+tensorflow = "==1.9.0"
+requests = "*"

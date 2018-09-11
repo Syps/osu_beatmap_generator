@@ -1,0 +1,3 @@
+[submodule "osu_map_gen/aisu_circles"]
+	path = osu_map_gen/aisu_circles
+	url = https://github.com/Syps/aisu_circles.git

@@ -1,0 +1,16 @@
+fetch_data_utils/auth.py
+*.pyc
+.idea
+.cache
+*.wav
+*.png
+*.hdf5
+*.h5
+.DS_Store
+tf_js
+*.pkl
+*.npy
+*.json
+*.stderr*
+logs/
+generated/
